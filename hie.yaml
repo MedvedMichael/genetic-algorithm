@@ -1,0 +1,17 @@
+ cradle:
+  multi:
+    - path: "./"
+      config:
+        cradle:
+          cabal:
+            - path: "./app/GeneticAlgorithm.hs"
+            - path: "./app/Main.hs"
+            - path: "./app/Random.hs"
+            - path: "./app/Crossingover.hs"
+            - path: "./app/Solution.hs"
+            - path: "./app/Backpack.hs"
+            - path: "./app/Selection.hs"
+            - path: "./app/Mutation.hs"
+
+
+
